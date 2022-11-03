@@ -1,0 +1,18 @@
+{
+  "name": "rik-janssen/sequel",
+  "type": "package",
+  "description": "A very simple database manager",
+  "keywords": ["mvc", "class", "mysql", "pdo"],
+  "license": "MIT",
+  
+   "authors": [
+      {
+          "name": "Rik Janssen",
+          "email": "rik@vesperphp.com"
+      }
+  ],
+  
+  "require": {
+  }
+  
+}
